@@ -1,3 +1,3 @@
 driver=ok
-devine=freeze
+devine=ok
 message=UNDER MAINTENANCE 
